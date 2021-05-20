@@ -1,4 +1,23 @@
 {
-  "name": "first-event-website",
-  "version": "1.0.0"
+  "name": "club-fair-attention-monopoly",
+  "version": "1.0.0",
+  "description": "website to use at first event to advertise MHS Computer Science Club",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandipert/club-fair-attention-monopoly.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiandipert/club-fair-attention-monopoly/issues"
+  },
+  "homepage": "https://github.com/christiandipert/club-fair-attention-monopoly#readme"
 }
